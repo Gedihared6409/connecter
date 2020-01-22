@@ -60,6 +60,9 @@ h2,h3{
 	text-decoration-line: underline;
 }
 
+td{
+	padding-right:50px ;
+}
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
 
