@@ -7,8 +7,8 @@ it is my project
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
+* This is a great place*
+** to list setup instructions**
 * in a simple
 * easy-to-understand
 * format
@@ -21,4 +21,4 @@ it is my project
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **{List of contributors or company name}** [tittle](https://www.example.com)
